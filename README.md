@@ -1,24 +1,4 @@
-# README
+# Binged
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Just an entertainment tracker application for personal use that I cobbled together in a half an hour. Might work on this in the future but otherwise consider it
+finished in it's current state. 
